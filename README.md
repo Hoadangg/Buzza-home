@@ -1,2 +1,2 @@
 # Buzza-home
-Buzza-home (HTML)
+Buzza-home 
